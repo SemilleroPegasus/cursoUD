@@ -1,0 +1,13 @@
+body{
+		background: linear-gradient(white, darkGray);
+		}
+		header,nav,section,footer {
+		   background-color: LightBlue ;
+		   border-style: 1;
+		   margin: 10px;
+		   width: 90%;
+		   padding: 20px;
+		   display: block;
+		   -moz-border-radius: 22px;
+		   -webkit-border-radius: 22px;
+		}
